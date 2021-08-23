@@ -1,0 +1,11 @@
+li a:hover {
+  background-color: red;
+}
+
+li a:focus {
+  background-color: red;
+}
+
+body {
+  background-color: pink;
+}
